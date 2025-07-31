@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @naskoblg
 - 👀 I’m interested in IoT and micro controllers
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ... NA
-- 📫 How to reach me ... NA
+- 💞️ I am experienced DevOps engineer
+- 🌱 I’m currently advancing in golang, javascript
 
 <!---
 naskoblg/naskoblg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
